@@ -82,7 +82,7 @@ body {
 }
 
 .intro-text h1 {
-    font-size: 2.7rem;
+    font-size: 3rem;
     font-weight: bold;
     text-align: center;
     animation: typewriter 3s steps(18, end) forwards,
@@ -209,15 +209,15 @@ body {
 
 @media (max-width: 768px) {
     .intro-text h1 {
-        font-size: 2rem;
+        font-size: 3rem;
     }
 
     .intro-text h3 {
-        font-size: 1.2rem;
+        font-size: 1.5rem;
     }
 
     .intro-text p {
-        font-size: 1rem;
+        font-size: 1.2rem;
         padding: 0 10px;
     }
 
